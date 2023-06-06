@@ -8,9 +8,11 @@ Anaconda – Python 3.7 Installation / Moodle-Code Runner
 # Algorithm:
 Import numpy module
 Get the input matrix using np.array()
-Find the norm of the matrix using np.linalg.norm() np.linalg.norm(a,1) for 1-Norm np.linalg.norm(a,2) for 2-Norm np.linalg.norm(a,np.inf) for Infinity-Norm
+Find the norm of the matrix using np.linalg.norm() np.linalg.norm(a,1) for 1-Norm 
+np.linalg.norm(a,2) for 2-Norm
+np.linalg.norm(a,np.inf) for Infinity-Norm
 Print the norm of the matrix in two decimal places.
-Program:
+# Program:
 # Register No:NARENDRAN B
 # Developed By:212222240069
 # 1-Norm of a Matrix
